@@ -26,7 +26,7 @@ g++ -std=c++11 pid_controller.cpp pid_controller_test.cpp -o pid_controller
 ./pid_controller
 ```
 ### Output
-Shown below is the ouput after ```50 iterations``` when the ```set point``` is kept at ```50``` and the ```initial value``` is ```100```.
+Shown below is the ouput after ```50 iterations``` when the ```set point``` is kept at ```55``` and the ```initial value``` is ```100```.
 ```
 After Correction: 72.956, Set point value: 55
 After Correction: 84.6644, Set point value: 55
